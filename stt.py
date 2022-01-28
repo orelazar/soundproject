@@ -2,12 +2,11 @@ from ibm_watson import SpeechToTextV1, ToneAnalyzerV3
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator, authenticator
 
 
-#api_key = 'GxcekwTSgOUVBUh7HD3pH8qBUMOrjxu_oCQEyw5kvNOQ'
-#api_url = 'https://api.au-syd.speech-to-text.watson.cloud.ibm.com/instances/7ce2ff91-f6ce-4641-b346-0554ab834970'
 
-tone_analyzer_apikey = 'k5R7TkJOgl6PMQws4D1_rwYMwtX4ybY6zysdW1KlsKPI'
+
+tone_analyzer_apikey = 
 tone_analyzer_url = 'https://api.au-syd.tone-analyzer.watson.cloud.ibm.com/instances/f98a8a4b-df9a-4800-8f99-201f4187433b'
-STT_apikey ='GxcekwTSgOUVBUh7HD3pH8qBUMOrjxu_oCQEyw5kvNOQ'
+STT_apikey =
 STT_url = 'https://api.au-syd.speech-to-text.watson.cloud.ibm.com/instances/7ce2ff91-f6ce-4641-b346-0554ab834970'
 
 
